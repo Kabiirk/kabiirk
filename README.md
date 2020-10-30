@@ -3,11 +3,13 @@
 ### Hi there 👋
 #### Nice to meet you ! Feel free to take a look at my Github Repositories, I'd be glad if they are of some help to you ! Scroll down to know more about me !!!!!
 ---
-##### A to-be Electrical Engineer :zap:
+##### :zap: A to-be Electrical Engineer 
 ---
-##### I'm a Data Science Enthusiast
+##### :abacus: I'm a Data Science Enthusiast
 ---
-##### I'm also a Freelace Graphic Designer !
+##### :black_nib: I'm also a Freelace Graphic Designer !
+
+:globe_with_meridians: [Here's my website !!](https://kabiirk.github.io/)
                                                                
 <!--
 **Kabiirk/kabiirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
