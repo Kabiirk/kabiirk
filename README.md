@@ -1,7 +1,13 @@
 ![This is a Banner](https://github.com/Kabiirk/kabiirk/blob/main/images/Banner.png)
 
 ### Hi there 👋
-#### Nice to meet you !, feel free to take a look at my Github Repositories, I'd be glad if theu are of some help to you !
+#### Nice to meet you ! Feel free to take a look at my Github Repositories, I'd be glad if they are of some help to you ! Scroll down to know more about me !!!!!
+---
+##### A to-be Electrical Engineer :zap:
+---
+##### I'm a Data Science Enthusiast
+---
+##### I'm also a Freelace Graphic Designer !
                                                                
 <!--
 **Kabiirk/kabiirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
