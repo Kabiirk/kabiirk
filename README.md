@@ -2,24 +2,23 @@
 
 # Hi there 👋
 <!-- #### Nice to meet you !-->
-#### I'm curently in my 7<sup>th</sup> Semester of my Batchelors degree.As an avid Data Science Enthusiast & a budding Electronics and Communication Engineer, I am also someone who knows graphic design as well! Feel free to take a look at my Github Repositories, I'll be glad if they are of some help to you ! Scroll down to know more about me :point_down:
+#### I'm curently in the 7<sup>th</sup> Semester of my Batchelors degree. As an avid Data Science Enthusiast & a budding Electronics and Communication Engineer, I am also someone who knows graphic design ! Feel free to take a look at my Github Repositories:octocat: , I'll be glad if they are of some help to you ! Scroll down to know more about me :point_down:
 </br>
 
 
 ### :zap: A to-be Electronics & Communication Engineer
 ![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/elect_c.gif)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing, Currently focussing on learning C++ for embedded programming and Assembly(NASM). My specialization is in the domain of Internet of Things, I have worked on cloud platforms like IBM Watson etc and I leverage my domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable automated solutions.
 
 ---
 ### :abacus: I'm a Data Science Enthusiast
-![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/dse_c.gif)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Another Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/dse_c.gif)
+My strengths as an analyst are my ability to work with large amounts of data, number crunching and attention to detail, which allows me to asses trends and patterns to come up with useful insights and present them succinctly with the helps of visualizations anfd effective communication. As an E&CE Engineer I am always looking for strategies to integrate disruptive automation technologies with data analytics to achieve higher degree of intelligence, integrity & interactivity during Data-acquisition, Processing-&-Analytics phases.
 
 ---
 ### :black_nib: I'm also a Freelace Graphic Designer !
-![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/designer_c.gif)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+![ANOTHER Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/designer_c.gif)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Designer Humour aside, I have worked as a freelancer for startups and I have also worked as a content creator, creating posters for college-based chapters. Have a look at my [portfolio](https://www.behance.net/kabiirk), It's still a work in progress and there are awesome projects yet to come !
 
 
 #### :globe_with_meridians: [Here's my website !!](https://kabiirk.github.io/)
