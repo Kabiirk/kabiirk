@@ -2,13 +2,13 @@
 
 # Hi there 👋
 <!-- #### Nice to meet you !-->
-#### I'm curently in the 7<sup>th</sup> Semester of my Batchelors degree. As an avid Data Science Enthusiast & a budding Electronics and Communication Engineer, I am also someone who knows graphic design ! Feel free to take a look at my Github Repositories:octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me :point_down:
+#### I'm curently in the 7<sup>th</sup> Semester of my Batchelors degree. As an avid Data Science Enthusiast & a budding Electronics and Communication Engineer, I am also someone who knows graphic design ! Feel free to take a look at my Github Repositories :octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me :point_down:
 </br>
 
 
 ### :zap: A to-be Electronics & Communication Engineer
 ![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/elect_c.gif)
-Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing, Currently focussing on learning C++ for embedded programming and Assembly(NASM). My specialization is in the domain of Internet of Things, I have worked on cloud platforms like IBM Watson etc and I leverage my domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable automated solutions.
+Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing, Currently focussing on learning C++ for embedded programming and Assembly(NASM). My specialization is in the domain of Internet of Things, My experience with working on cloud platforms like IBM Watson allow me to leverage domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
 
 ---
 ### :abacus: I'm a Data Science Enthusiast
