@@ -8,7 +8,7 @@
 
 ### :zap: A to-be Electronics & Communication Engineer
 ![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/elect_c.gif)
-Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing, Currently focussing on learning C++ for embedded programming and Assembly(NASM). My specialization is in the domain of Internet of Things, My experience with working on cloud platforms like IBM Watson allow me to leverage domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
+Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing,currently focussing on learning C++ and Assembly(NASM) for embedded programming. My specialization lies in the domain of Internet of Things & my experience with working on cloud platforms like IBM Watson allow me to leverage that domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
 
 ---
 ### :abacus: I'm a Data Science Enthusiast
