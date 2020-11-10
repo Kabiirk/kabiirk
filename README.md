@@ -21,7 +21,7 @@ My strengths as an analyst are my ability to work with large amounts of data, nu
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Designer Humour aside, I have worked as a freelancer for startups and I have also worked as a content creator, creating posters for college-based chapters. Have a look at my [Behance portfolio](https://www.behance.net/kabiirk), It's still a work in progress and there are awesome projects yet to come !
  
  
-### :globe_with_meridians: <a href="https://kabiirk.github.io/" target="_blank">Here's my website !!</a>
+<a href="https://kabiirk.github.io/" target="_blank">Here's my website !!</a>
 <!--### :globe_with_meridians: [Here's my website !!](https://kabiirk.github.io/)-->
 
 
