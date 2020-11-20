@@ -5,7 +5,14 @@
 #### I'm curently in the 7<sup>th</sup> Semester of my Batchelors degree. As an avid Data Science Enthusiast & a budding Electronics and Communication Engineer, I am also someone who knows graphic design ! Feel free to take a look at my Github Repositories :octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me :point_down:
 </br>
 
+### :zap: Some of the languages I work with !
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/>
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
+ 
+---
 ### :zap: A to-be Electronics & Communication Engineer
 ![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/elect_c.gif)
 Studying E&CE, My strengths are Digital Electronics and Sensor Interfacing,currently focussing on learning C++ and Assembly(NASM) for embedded programming. My specialization lies in the domain of Internet of Things & my experience with working on cloud platforms like IBM Watson allow me to leverage that domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
