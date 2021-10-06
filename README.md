@@ -2,7 +2,7 @@
 
 # Hey there 👋
 <!-- #### Nice to meet you !-->
-#### As an avid Data Science Enthusiast, Electronics and Communication Engineer & as someone who knows graphic design, I aim to create projects that enhance my knowledge in these disciplines. Feel free to take a look at my Github Repositories :octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me.
+#### As an avid Data Science Enthusiast, Cyber Security Practicioner, Electronics and Communication Engineer & as someone who knows graphic design, I aim to create projects that enhance my knowledge in these disciplines. Feel free to take a look at my Github Repositories :octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me.
 </br>
 
 ### :man_technologist: Some of the languages I work with !
@@ -16,7 +16,7 @@
 ---
 ### :zap: An Electronics & Communication Engineer
 ![A Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/elect_c.gif)
-As an E&CE undergraduate, My strengths are Digital Electronics and Sensor Interfacing,currently focussing on learning C++ and Assembly(NASM) for embedded programming. My specialization lies in the domain of Internet of Things & my experience with working on cloud platforms like IBM Watson allow me to leverage that domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
+As an E&CE graduate, My strengths are Digital Electronics and Sensor Interfacing,currently focussing on learning C++ and Assembly(NASM) for embedded programming. My specialization lies in the domain of Internet of Things & my experience with working on cloud platforms like IBM Watson allow me to leverage that domain-knowledge with tools like Kafka, Docker and Kubernetes to create scalable & automated solutions.
 
 ---
 ### :abacus: A Data Science Enthusiast
