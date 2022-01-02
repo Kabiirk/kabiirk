@@ -1,6 +1,6 @@
 ![This is a Banner](https://github.com/Kabiirk/kabiirk/blob/main/images/Banner.png)
 
-# Hey there 👋:
+# Hey there 👋
 <!-- #### Nice to meet you !-->
 #### As an avid Data Science Enthusiast, Cyber Security Practicioner, Electronics and Communication Engineer & as someone who knows graphic design, I aim to create projects that enhance my knowledge in these disciplines. Feel free to take a look at my Github Repositories :octocat:, I'll be glad if they are of some help to you ! Scroll down to know more about me.
 </br>
