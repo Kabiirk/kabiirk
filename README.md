@@ -27,9 +27,13 @@ I excel as an analyst are my ability to work with large amounts of data, number 
 ### :black_nib: I'm also a Freelace Graphic Designer !
 ![ANOTHER Cool GIF](https://github.com/Kabiirk/kabiirk/blob/main/gifs/designer_c.gif)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Designer Humour aside, I have worked as a freelancer for startups and I have also worked as a content creator, creating posters for college-based chapters. Have a look at my [Behance portfolio](https://www.behance.net/kabiirk), It's still a work in progress and there are awesome projects yet to come !
- 
 
-## :globe_with_meridians: [Here's my website !!](https://kabiirk.github.io/)
+---
+### :octopus: In my free time, I also contribute to Open Source!
+[![An image of @kabiirk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabiirk)](https://holopin.io/@kabiirk)
+
+
+## :globe_with_meridians: [Do visit my website !!](https://kabiirk.github.io/)
 
 
 <!--
