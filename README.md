@@ -30,7 +30,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 ### :octopus: In my free time, I also contribute to Open Source!
-[![An image of @kabiirk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabiirk)](https://holopin.io/@kabiirk)
+[![@kabiirk's Holopin board](https://holopin.io/api/user/board?user=kabiirk)](https://holopin.io/@kabiirk#)
 
 
 ## :globe_with_meridians: [Do visit my website !!](https://kabiirk.github.io/)
